@@ -1,4 +1,4 @@
-## Hey there 👋
+# Hey there 👋
 
 I'm Samad, a software engineer based in Azerbaijan.
 
@@ -12,7 +12,7 @@ I'm working on a startup project [SudoTask](www.sudotask.org) for automating the
 
 If you want to reach me, this is my [Linkedin profile](www.linkedin.com/in/samad-musazade-751344383)
 
-# A bit about me
+## A bit about me
 - I love reading books
 - I consistently work out
 - I enjoy hiking
